@@ -1,0 +1,33 @@
+/*
+AUTHOR NAME : ANIK ISLAM 
+TEMPLATE NAME : BUILDCON
+VERSION :  1.0.0
+
+*/
+
+/* ROOT VARIABLES  */
+:root{
+    --what-color: #fff;
+    --black-color: #000;
+    --global-fonts: "Winky Rough", sans-serif;
+
+}
+.section-padding{
+    padding: 110px 0;
+}
+/* ESSENTIALS SET UP  */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: var(--global-fonts);
+}
+
+
+
+.about-img img{
+    width: 100%;  
+}
+ 
