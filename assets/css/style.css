@@ -26,8 +26,36 @@ body{
 }
 
 
-
+/* ABOUT SECTION START */
+.about-section .about-text p{
+    text-align: justify;
+}
 .about-img img{
     width: 100%;  
 }
- 
+/* ABOUT SECTION END  */
+
+/* SERVICE SECTION START  */
+.card-content .c-heading  i{
+    font-size: 50px; 
+}
+/* SERVICE SECTION END  */
+
+/* TEAM SECTION START  */
+.socials i{
+    font-size: 25px;
+    cursor: pointer;
+} 
+/* TEAM SECTION END  */
+
+/* CONTACT  SECTION START  */
+ textarea{
+    outline: none;
+}
+/* CONTACT  SECTION END  */
+
+/*PORTFOLIO SECTION START  */
+.portfolio-content img{
+    width: 100%;
+}
+/*PORTFOLIO SECTION END  */
